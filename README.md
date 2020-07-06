@@ -6,7 +6,7 @@ Run `mvn clean install -U` from project root.
 
 ## How to run
 ### IDE
-Run RestdocsdemoApplication.java as java application.
+Run `RestdocsdemoApplication.java` as java application.
 ### Terminal/command line
 Run `java -jar target/restdocsdemo-0.0.1-SNAPSHOT.jar` from project root
  OR
